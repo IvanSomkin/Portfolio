@@ -1,0 +1,153 @@
+html {
+	position: absolute;
+	width: 1920px;
+	height: 2150px;
+	
+	background-image: url("../assets/background.jpg");
+	background-size: 100%;
+	background-position: center center
+}
+
+.name-block {
+	position: absolute;
+	width: 1220px;
+	height: 200px;
+	left: 350px;
+	top: 0px;
+	
+	text-align: center;
+	line-height: 200px;
+}
+
+h1 {
+	color: rgba(255, 255, 255, 1);
+	font-size: 48px;
+	font-family: Arimo;
+	font-style: normal;
+	font-weight: bold;
+	margin-block-start: 0px;
+	margin-block-end: 0px;
+}
+
+h2 {
+	color: rgba(0, 0, 0, 1);
+	font-family: Roboto;
+	font-weight: Bold;
+	font-size: 48px;
+	text-align: left;
+	margin-block-start: 0px;
+	margin-block-end: 0px;
+}
+
+dl {
+	margin-block-start: 0px;
+	margin-block-end: 0px;
+}
+
+.about-block {
+	position: absolute;
+	width: 1220px;
+	height: 450px;
+	left: 350px;
+	top: 200px;
+	
+	background: rgba(255, 255, 255, 255);
+	border-radius: 10px;
+	overflow: hidden;
+}
+
+.achievement-block {
+	position: absolute;
+	width: 1220px;
+	height: 450px;
+	left: 350px;
+	top: 700px;
+	
+	background: rgba(255, 255, 255, 255);
+	border-radius: 10px;
+	overflow: hidden;
+}
+
+.contact-block {
+	position: absolute;
+	width: 1220px;
+	height: 450px;
+	left: 350px;
+	top: 1200px;
+	
+	background: rgba(255, 255, 255, 255);
+	border-radius: 10px;
+}
+
+.special-block {
+	position: absolute;
+	width: 1220px;
+	height: 450px;
+	left: 350px;
+	top: 1700px;
+	
+	background: rgba(255, 255, 255, 255);
+	border-radius: 10px;
+}
+
+.left-title {
+	position: absolute;
+	left: 80px;
+	top: 70px;
+}
+
+.right-title {
+	position: absolute;
+	left: 530px;
+	top: 70px;
+}
+
+.left-text {
+	
+	position: absolute;
+	width: 600px;
+	left: 80px;
+	top: 160px;
+	
+	color: rgba(0, 0, 0, 1);
+	font-family: Roboto;
+	font-weight: Regular;
+	font-size: 36px;
+	text-align: left;
+	margin-block-start: 0px;
+	margin-block-end: 0px;
+}
+
+.right-text {
+	position: absolute;
+	width: 600px;
+	left: 530px;
+	top: 160px;
+	
+	color: rgba(0, 0, 0, 1);
+	font-family: Roboto;
+	font-weight: Regular;
+	font-size: 36px;
+	text-align: left;
+	margin-block-start: 0px;
+	margin-block-end: 0px;
+}
+
+pre {
+	margin: 70px 400px;
+}
+
+.credit {
+	position: absolute;
+	width: 1220px;
+	height: 100px;
+	left: 350px;
+	top: 2250px;
+
+	color: rgba(255, 255, 255, 1);
+	font-family: Roboto;
+	font-weight: Regular;
+	font-size: 36px;
+	text-align: center;
+	line-height: 100px;
+}
